@@ -1,0 +1,7 @@
+    /*$(window).on('load', function() {
+        $('#container').summer({
+            offsetX: 8,
+            offsetY: 8,
+            gridElement: '.grid'
+        });
+    });*/
